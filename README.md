@@ -3,6 +3,11 @@
 Cricbuzz LiveStats is a high-performance sports analytics platform that harmonizes real-time data acquisition with deep-dive historical analysis. Developed using **Python**, **Streamlit**, and **SQL**, the platform serves as a unified ecosystem where users can track live match momentum, explore detailed player profiles, and execute complex analytical queries.
 
 ---
+# Demo
+
+
+
+---
 
 ## 🚀 Features
 
